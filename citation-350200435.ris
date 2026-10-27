@@ -1,0 +1,12 @@
+TY  - JOUR
+AU  - Fadul-Pacheco, Liliana
+AU  - Delgado, Hector
+AU  - Cabrera, Víctor
+PY  - 2021/03/01
+SP  - 105051
+N2  - Different classification machine learning techniques (Naïve Bayes, Random Forest and Extreme Gradient Boosting) were evaluated to identify cows positive for clinical mastitis (CM) during their first lactation (1st lactation) and to daily predict the onset of CM (continuous). Integrated data from different software were used to feed the algorithms. In both cases, the best predictions were obtained with the Random Forest algorithm. The algorithms correctly classified 71% and 85% of the CM cows for the 1st lactation and continuous models, respectively. Both analyses had the same accuracy of 72%. Results showed that it is feasible to integrate different data streams to develop predictive and prescriptive decision support tools. Having two different algorithms working concomitantly, one for predicting the imminent risk and the other one for the overall risk during the first lactation, could help in the short, mid-, and long-term decision-making process.
+T1  - Exploring machine learning algorithms for early prediction of clinical mastitis
+VL  - 119
+DO  - 10.1016/j.idairyj.2021.105051
+JO  - International Dairy Journal
+ER  - 
